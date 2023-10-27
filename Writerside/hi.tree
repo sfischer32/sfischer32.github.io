@@ -7,5 +7,7 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Default-topic.md"/>
-    <toc-element topic="How-to-fix-it.md"/>
+    <toc-element topic="How-to-fix-it.md">
+        <toc-element topic="how-to-fix-problem-A.md"/>
+    </toc-element>
 </instance-profile>
